@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/
+upload_log*.txt
+upload_result.txt
+synthea_log*.txt
