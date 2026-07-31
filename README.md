@@ -16,6 +16,9 @@ Real hospitals and payers exchange patient data using two standards side by side
 
 \## Architecture
 
+<img width="862" height="543" alt="image" src="https://github.com/user-attachments/assets/f7261c9c-19b3-4a91-a40d-3b8e7bca1bbb" />
+
+
 ## What's in this repo
 
 
